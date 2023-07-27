@@ -8,7 +8,7 @@
 <h1> Trying to be senior ... </h1>
 <h2> Linux/Kali </h2>
 
-<a href="https://github.com/Alikanan-a" align="center"> 
+<a href="[https://github.com/Alikanan-a](https://github.com/Alikanan-a)" align="center"> 
   <img src="scratch.svg" />
 </a>
 
