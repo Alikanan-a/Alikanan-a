@@ -100,7 +100,7 @@
 </a>  
 </div>  
   <br/> 
-  <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+ <hr/>
 <br/>  
  <br/> 
 <br/>  
@@ -110,14 +110,14 @@
 <p align="center"><img align="cnter" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikanan-a&show_icons=true&locale=en&layout=compact" alt="alikanan-a" /></p>
 <br/> 
 <br/>  
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+<hr/>
 <br/> 
 <br/>  
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikanan-a&show_icons=true&locale=en" alt="alikanan-a" /></p>
  
 <br/> 
 <br/>  
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+<hr/>
 <br/> 
 <br/>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikanan-a&" alt="alikanan-a" /></p>
