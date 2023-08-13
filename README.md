@@ -1,22 +1,21 @@
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=Alikanan-a)
+ <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlikanan-a%2FAlikanan-a&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
 
 </div>
-<h2 align="center">Hi 👋, I'm Ali Kanan</h2>
+<h2 align="center">Hi 👋, I'm Ali Kanan </h2> 
 
 <h1> Trying to be senior ... </h1>
 <h2> Linux/Kali </h2>
 
-<a href="[https://github.com/Alikanan-a](https://github.com/Alikanan-a)" align="center"> 
-  <img src="scratch.svg" />
-</a>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alikanan-a&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1050"/>
 
 <br/>  
 
-## My Skill Set  
+## My Skill Set   <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -112,12 +111,16 @@
 <br/>  
 <hr/>
 <br/> 
-<br/>  
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikanan-a&show_icons=true&locale=en" alt="alikanan-a" /></p>
- 
+<br/> 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikanan-a&" alt="alikanan-a" /></p>
+<p align="center">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=alikanan-a&show_icons=true&locale=en" alt="alikanan-a" /> </p>
+
 <br/> 
 <br/>  
 <hr/>
 <br/> 
 <br/>  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikanan-a&" alt="alikanan-a" /></p>
+
+<a href="[https://github.com/Alikanan-a](https://github.com/Alikanan-a)" align="center"> 
+  <img src="scratch.svg" />
+</a>
