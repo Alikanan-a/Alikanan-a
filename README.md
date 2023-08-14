@@ -2,7 +2,9 @@
  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAlikanan-a%2FAlikanan-a&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
 
 </div>
-<h2 align="center">Hi 👋, I'm Ali Kanan </h2> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome+To+My+World+;I+am+Ali+kanan:+Full-Stack+Developer!;Always+looking+to+evolve...)](https://git.io/typing-svg)
+
 
 <h1> Trying to be senior ... </h1>
 <h2> Linux/Kali </h2>
