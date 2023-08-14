@@ -70,17 +70,8 @@
 </div>  
   <br/> 
  <hr/>
-<br/>  
- <br/> 
-<br/>  
-<br/>  
-
 
 <p align="center"><img align="cnter" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikanan-a&show_icons=true&locale=en&layout=compact" alt="alikanan-a" /></p>
-<br/> 
-<br/>  
-<hr/>
-<br/> 
 
 
 
@@ -88,14 +79,3 @@
 | -- | -- |
 
 <hr>
-
-
-<br/> 
-<br/>  
-<hr/>
-<br/> 
-<br/>  
-
-<a href="[https://github.com/Alikanan-a](https://github.com/Alikanan-a)" align="center"> 
-  <img src="scratch.svg" />
-</a>
